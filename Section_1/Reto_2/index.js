@@ -1,6 +1,6 @@
 
 /* .test() es un método que se utiliza en expresiones regulares para verificar si un patrón específico está presente en una cadena de texto. Devuelve true si encuentra el patrón y false si no lo encuentra.
-Por ejemplo, si usamos /hola/ como nuestra expresión regular y la aplicamos a la cadena de texto “¡Hola, mundo!”, .test() devolverá true porque el patrón “hola” está presente en la cadena. Si el patrón no se encuentra, .test() devolverá false.*/
+Por ejemplo, si usamos /hola/ como nuestra expresión regular y la aplicamos a la cadena de texto “¡Hola, mundo!”, .test() devolverá true porque el patrón “hola” está presente en la cadena. Si el patrón no se encuentra, .test() devolverá false..*/
 
 alert("Bienvenido al validador de contraseñas seguras")
 let userPassword = prompt("Por favor, ingrese una contraseña");

@@ -1,5 +1,7 @@
 alert(" ! Bienvenido a la calculadora de promedios !")
+
 let calificaciones = prompt("Por favor, ingrese las calificaciones del estudiante, separadas por comas");
+
 let arrayCalificaciones = calificaciones.split(",");
 // .reduce to reduce an array to a single value, reduce is used to accumulate a value/ No muta / Return : value
 //Se calcula la suma de calificaciones 

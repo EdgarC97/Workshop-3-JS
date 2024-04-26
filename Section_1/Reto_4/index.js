@@ -156,3 +156,5 @@ while (flag) {
       console.log("Opción no válida. Por favor, intenta de nuevo.");
   }
 }
+
+//para actualizar un duplicado de evento

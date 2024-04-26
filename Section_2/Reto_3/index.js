@@ -426,3 +426,5 @@ main();
 // forEach es un método de los arrays en JavaScript que ejecuta una función proporcionada una vez por cada elemento del array. Es útil cuando necesitas ejecutar una función que tiene efectos secundarios (como modificar variables externas o imprimir en la consola) en cada elemento del array.
 
 // for...of es una declaración que crea un bucle que itera sobre objetos iterables (incluyendo arrays, mapas, conjuntos, argumentos de funciones, y otros objetos similares). Es útil cuando necesitas un bucle más tradicional donde puedes usar break para salir del bucle antes de tiempo, o cuando necesitas acceder al índice del elemento actual.
+
+//faltaría un bucle while para que vean las diferentes opcioens que pueden realizar con el inventario

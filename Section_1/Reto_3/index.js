@@ -1,7 +1,7 @@
 alert("Bienvenido al validador de correos electrónicos");
 let userEmail = prompt("Por favor, ingrese un correo electrónico");
 
-// Función para validar el correo electrónico ingresado por el usuario
+// Función para validar el correo electrónico ingresado por el usuario.
 function emailValidation(email) {
     // .includes Checks whether a string contains the specified string/characters / Mutate: No / Return : Boolean
     let atSymbol = email.includes('@');

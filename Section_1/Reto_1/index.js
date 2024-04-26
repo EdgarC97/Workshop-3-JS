@@ -48,3 +48,5 @@ const main = () => {
     }
 }
 main()
+
+// se puede mejorar manejo de errores 

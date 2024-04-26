@@ -38,3 +38,5 @@ console.log(`Calificación Mínima: ${minima}`);
 console.log(`Número de Aprobados: ${aprobados}`);
 console.log(`Número de Reprobados: ${reprobados}`);
 console.log(`Lista de Calificaciones Ordenadas de Mayor a Menor: ${calificacionesOrdenadas}`);
+
+//cuando el usuario le de aceptar o cancelar no debería salir error

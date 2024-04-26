@@ -248,3 +248,4 @@ Desarrollar un sistema en JavaScript para gestionar un inventario de productos. 
 Importante! Recuerda que por experiencia de usuario, las malas palabras en la descripción de los productos deben ser reemplazadas por asteriscos (*) para evitar ofensas, asi que cada vez que encuentres una mala palabra en la descripción de un producto, reemplazala por asteriscos, de modo que en ningun servicio, a excepcion del reporte general, se muestren las malas palabras.
 
 Nota: Puedes utilizar bucles for, while y estructuras condicionales como if/else para resolver este reto, pero te recomiendo que utilices métodos de strings y arrays para simplificar la solución.
+all completed
